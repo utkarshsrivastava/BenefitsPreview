@@ -1,0 +1,13 @@
+# Imagine, that this comes from the product side..
+# imagine that there is a UI based application that allows product to dictate
+# what should be displayed in the UI of BenefitsApplication and change it seemlessly
+# these values are  vetted by senior product people before being entered into the database . we then get the values at runtime
+# this way, we decouple business logic from languages nad give product the freedom to test their changes
+#without them relying on developers. they just restart the application and the changes are reflected.
+
+
+ENTER_EMPLOYEE_ID="Please enter the employeeID :"
+EMPLOYEE_DETAILS="Employee Details :"
+
+SUBMIT="Submit"
+
